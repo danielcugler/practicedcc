@@ -4,16 +4,9 @@ public class Main {
 	public static void main(String[] args) {
 		
 		System.out.println("BKP 1");
-		//comment from master
-		System.out.println("BKP 3");
-		System.out.println("BKP 2");
+		//removed the conflicts
 		
-		//New update in master
-		
-		//new comment 1
-		
-		//comment 2
-		
+		//fixed - clean
 	}
 
 }
